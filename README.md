@@ -1,2 +1,3 @@
 # Hello-world
-just a begining test
+#just a begining test
+print 'Hello World'
